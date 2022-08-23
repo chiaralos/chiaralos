@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chiaralos
-- 🌱 I’m currently learning python, c++
+- 🌱 I’m currently learning python, c++ and Java
 - 📫 How to reach me ...
 
 <!---
